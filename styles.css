@@ -20,7 +20,7 @@ body {
 
 /* Header */
 .header {
-  background-color: #1A1F71;
+  background-color: #black;
   padding: 20px 0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.4);
   position: center;
